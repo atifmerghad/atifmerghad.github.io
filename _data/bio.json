@@ -9,30 +9,30 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "20520",
+      "city": "Casablanca",
+      "countryCode": "Morocco",
+      "region": "Sidi Maârouf"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "Atif Merghad",
+        "username": "atifmerghad",
         "url": "http://github.com/atifmerghad"
       },
       {
         "network": "linkedin",
-        "username": "Atif Merghad",
+        "username": "Atif-Merghad",
         "url": "http://linkedin.com/in/atif-merghad"
       },
       {
         "network": "twitter",
-        "username": "Atif Merghad",
+        "username": "atif_merghad",
         "url": "http://twitter.com/atif_merghad"
       },
       {
         "network": "instagram",
-        "username": "Atif Merghad",
+        "username": "atif.merghad",
         "url": "http://instagram.com/atif.merghad"
       }
     ]
@@ -79,11 +79,29 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "National School of Applied Sciences of Al Hoceima,Morocco",
+      "area": "ENGINEER'S DEGREE IN COMPUTER SCIENCE, ENSAH",
+      "studyType": "BI",
+      "startDate": "2016-09-01",
+      "endDate": "2019-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Faculty of Science Abdelmalek Essaidi - Tetouan, Morocco",
+      "area": "MATHEMATICAL AND COMPUTER SCIENCES",
+      "studyType": "DEUG",
+      "startDate": "2014-09-01",
+      "endDate": "2016-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Technical School Imam Ghazali - Tetouan, Morocco",
+      "area": "COMPUTER SYSTEMS AND NETWORKS",
+      "studyType": "BTS",
+      "startDate": "2012-09-01",
+      "endDate": "2014-07-01",
       "gpa": "",
       "courses": []
     }
@@ -91,7 +109,7 @@
   "work": [
     {
       "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "position": "Data Engineer",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
@@ -103,7 +121,7 @@
     },
     {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "position": "Data Engineer",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
