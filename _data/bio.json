@@ -2,7 +2,7 @@
   "basics": {
     "name": "Atif Merghad",
     "label": "Computer Engineering",
-    "picture": "https://atifmerghad.github.io/template/images/picture.png",
+    "picture": "https://atifmerghad.github.io/images/atif.jpeg",
     "email": "atif.merghad@gmail.com",
     "phone": "+212666840674",
     "website": "https://atifmerghad.github.io",
@@ -39,18 +39,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Science",
       "keywords": []
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": []
     }
   ],
@@ -73,9 +73,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
