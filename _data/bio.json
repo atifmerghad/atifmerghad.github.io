@@ -2,7 +2,7 @@
   "basics": {
     "name": "Atif Merghad",
     "label": "Computer Engineering",
-    "picture": "https://atifmerghad.github.io/images/atif.jpeg",
+    "picture": "https://atifmerghad.github.io/template/images/picture.png",
     "email": "atif.merghad@gmail.com",
     "phone": "+212666840674",
     "website": "https://atifmerghad.github.io",
@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "Atif Merghad",
         "url": "http://github.com/atifmerghad"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Atif Merghad",
         "url": "http://linkedin.com/in/atif-merghad"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "Atif Merghad",
         "url": "http://twitter.com/atif_merghad"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "Atif Merghad",
         "url": "http://instagram.com/atif.merghad"
       }
     ]
